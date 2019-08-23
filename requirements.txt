@@ -1,0 +1,26 @@
+certifi==2018.1.18
+cloudinary==1.10.0
+dj-database-url==0.5.0
+Django==2.1
+django-activity-stream==0.8.0
+django-auth0==0.0.3
+django-cloudinary-storage==0.2.3
+django-cors-headers==3.1.0
+django-el-pagination==3.2.4
+# django-heroku==0.2.0
+django-model-utils==3.2.0
+django-notifications-hq==1.5.0
+django-smuggler==0.3
+django-widget-tweaks==1.4.5
+djangorestframework==3.10.2
+gunicorn==19.6.0
+jsonfield==2.0.2
+mock==2.0.0
+pbr==3.1.1
+Pillow==6.0.0
+# psycopg2==2.7.3.2
+pytz==2017.3
+requests==2.11.0
+six==1.11.0
+urllib3==1.22
+whitenoise==3.3.1
