@@ -1,7 +1,3 @@
-# MY-RIDE (Django Carpool) ![](https://img.shields.io/badge/othree-codes-yellowgreen.svg)
-# Live Demo - http://myrideapp.xyz
-
-
 
 ### Installation
 requires python > 3 django 1.9
